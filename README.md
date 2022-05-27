@@ -6,7 +6,7 @@
 
 <p>The present repository owns contains a backend application developed in Java, using PostgreSQL as database manager and also usning Maven and Spring Boot.</p>
 
-<h5>Setup</h5>
+<h4>Setup</h4>
 
 <p>It is important to go to the Spring Initializr site (link below)</p>
 
@@ -22,6 +22,13 @@
 <p>As it was explained it works by using maven, so it is important to download it from Maven's oficial site</p>
 
 <a href="https://maven.apache.org/">Maven Site</a>
+
+<h4>Description</h4>
+
+<p>This application has four elementary elements that work together to effectively create elements(tables) within a database.</p>
+<p><b>Entitites: </b>This files </p>
+
+<p></p>
 
 <></>
 <image href="">
