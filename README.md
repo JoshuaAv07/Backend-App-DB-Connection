@@ -14,10 +14,10 @@
 
 <p>And the selected specifications were to work with Maven, using Java 11 and using Spring Web, PostgreSQL Driver and Spring Data JPA as deppendencies.</p>
 
-<image href="https://github.com/JoshuaAv07/Backend-App-DB-Connection/blob/master/images/0.PNG"/>
-<image href="https://github.com/JoshuaAv07/Backend-App-DB-Connection/blob/master/images/1.1.PNG"/>
-<image href="https://github.com/JoshuaAv07/Backend-App-DB-Connection/blob/master/images/1.2.PNG"/>
-<image href="https://github.com/JoshuaAv07/Backend-App-DB-Connection/blob/master/images/1.9.PNG"/>
+<image href="https://github.com/JoshuaAv07/Backend-App-DB-Connection/blob/master/images/0.PNG?raw=true"/>
+<image href="https://github.com/JoshuaAv07/Backend-App-DB-Connection/blob/master/images/1.1.PNG?raw=true"/>
+<image href="https://github.com/JoshuaAv07/Backend-App-DB-Connection/blob/master/images/1.2.PNG?raw=true"/>
+<image href="https://github.com/JoshuaAv07/Backend-App-DB-Connection/blob/master/images/1.9.PNG?raw=true"/>
 
 <p>As it was explained it works by using maven, so it is important to download it from Maven's oficial site</p>
 
