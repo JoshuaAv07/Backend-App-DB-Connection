@@ -1,9 +1,7 @@
 package com.example.test.restcontrollers;
 
 import com.example.test.entities.CostumerEntity;
-import com.example.test.entities.UserEntity;
 import com.example.test.services.CostumerService;
-import com.example.test.services.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
