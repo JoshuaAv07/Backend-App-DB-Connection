@@ -42,7 +42,7 @@ alter database test owner to admin;
 ```
 
 <p>Database connection within the application</p>
-<a href="https://github.com/JoshuaAv07/Backend-App-DB-Connection/blob/master/src/main/resources/application.properties">application.properties</a>
+<a href="https://github.com/JoshuaAv07/Backend-App-DB-Connection/blob/master/src/main/resources/application.properties">application.properties</a><br>
 
 <p>It is important to initialize the database.</p>
 <img src="https://github.com/JoshuaAv07/Backend-App-DB-Connection/blob/master/images/1.PNG?raw=true"/>
