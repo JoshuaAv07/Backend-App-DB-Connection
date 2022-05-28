@@ -2,7 +2,7 @@
 
 <h2>Universidad tecnológica de Chihuahua BIS</h2>
 
-<h5>Joshua Alexis Avilés - TIDBIS51M - IoT Applications - 27/05/2022</h5>
+<h5><i>Joshua Alexis Avilés - TIDBIS51M - IoT Applications - 27/05/2022</i></h5>
 
 <p>The present repository owns contains a backend application developed in Java, using PostgreSQL as database manager and also usning Maven and Spring Boot.</p>
 
